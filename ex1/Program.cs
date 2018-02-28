@@ -10,6 +10,11 @@ namespace ex1
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(1+1);
+            Console.ReadKey();   // ler uma tecla 
+
+            
         }
     }
 }
